@@ -1,2 +1,2 @@
 # dicee_game
-play a dicee game usinf htmk css js
+play a dicee game usinf html css js 
